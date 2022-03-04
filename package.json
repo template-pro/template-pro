@@ -1,0 +1,11 @@
+{
+  "name": "create-template-pro",
+  "version": "0.0.0",
+  "description": "WIP: Create a new template project",
+  "bin": {
+    "create-template-pro": "index.js"
+  },
+  "main": "index.js",
+  "author": "Wuxh<wxh16144@qq.com>",
+  "license": "MIT"
+}
